@@ -96,7 +96,6 @@ def echo(message):
 
 # Запуск бота
 bot.polling(none_stop=True)
-pyTelegramBotAPI
-requests
-openai
+
+
 
